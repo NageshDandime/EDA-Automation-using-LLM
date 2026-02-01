@@ -78,7 +78,7 @@
 
   <h2>👤 Author</h2>
   <p>Developed by <strong>Kunal Mahadule</strong></p>
-  <p>GitHub: <a href="https://github.com/NageshDandime" target="_blank">https://github.com/kunalmahadule</a></p>
+  <p>GitHub: <a href="https://github.com/NageshDandime" target="_blank">https://github.com/NageshDandime</a></p>
 
   <hr>
 
